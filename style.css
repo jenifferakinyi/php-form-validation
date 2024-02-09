@@ -1,0 +1,25 @@
+.navContainer{
+    display: flex;
+    background-color: #002004;
+    width: 100%;
+    }
+    .logo{
+        font-family: 'Rock Salt', cursive;
+        color: yellowgreen;
+        margin-top: 15px;
+        
+    }
+    ul{
+        list-style-type: none;
+        display: flex;
+        text-decoration: none;
+        line-height: 10px;
+    }
+    li a{
+        padding: 35px 8px;
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        color: white;
+        line-height: 60px;
+        margin-left: 60px;
+    }

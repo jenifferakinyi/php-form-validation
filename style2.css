@@ -1,0 +1,37 @@
+.productContainer{
+    display: flex;
+    display: ;
+}
+.product-card {
+    max-width: 300px;
+    margin: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+
+}
+h2{
+    color:#002004;
+}
+
+.product-card img {
+    max-width: 100%;
+    height: auto;
+}
+.btn{
+    background-color: #002004;
+    color:  hsl(0, 0%, 100%);
+
+}
+.price{
+    color:#002004 ;
+    font-weight:900 ;
+    font-size: 34px;
+    font-family:"Fraunces",serif ;
+   
+}
+.btn{
+    width: 80%;
+}
+/* @media (min-width: 640px){
+
+} */
